@@ -127,6 +127,7 @@
         <module>xchange-yobit</module>
         <module>xchange-dsx</module>
         <module>xchange-cryptopia</module>
+        <module>xchange-liqui</module>
     </modules>
 
     <repositories>
