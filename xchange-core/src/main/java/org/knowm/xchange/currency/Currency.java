@@ -234,6 +234,8 @@ public class Currency implements Comparable<Currency> {
   public static final Currency ZRC = createCurrency("ZRC", "ziftrCOIN", null);
   public static final Currency ZWL = createCurrency("ZWL", "Zimbabwean Dollar", null);
 
+  public static final Currency ZRX = createCurrency("ZRX", "0xProject", null);
+
   /**
    * Gets the set of available currencies.
    */
